@@ -1173,7 +1173,7 @@ a:hover {
   }
 }
 .cid-tMVekw9hDe {
-  background-image: url("../../../assets/images/overlay-green-1200x1097.png");
+  background-image: url("../../../assets/images/64653afd11606a6560301b12-ao-background-1440x1044.png");
 }
 .cid-tMVekw9hDe .mbr-fallback-image.disabled {
   display: none;
@@ -2083,16 +2083,6 @@ a:hover {
 @media (min-width: 992px) {
   .cid-tNsW7lexdx .item {
     width: 20%;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tNsW7lexdx .item {
-    width: 40%;
-  }
-}
-@media (max-width: 576px) {
-  .cid-tNsW7lexdx .item {
-    max-height: 300px;
   }
 }
 .cid-tNsW7lexdx .mbr-card-title {
