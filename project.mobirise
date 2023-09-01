@@ -99,7 +99,7 @@
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "usedWebp": false
   },
   "pages": {
@@ -546,6 +546,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -3144,6 +3147,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -3792,6 +3798,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -4791,6 +4800,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -5673,6 +5685,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -6353,6 +6368,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -7037,6 +7055,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -8315,6 +8336,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -10397,10 +10421,15 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
           "_anchor": "menu01-al",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
@@ -11895,6 +11924,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tJDiWDfgia",
@@ -13452,6 +13484,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tOkFl610hW",
@@ -15373,6 +15408,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tOwy1moxI9",
@@ -17294,6 +17332,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tOwApnGMjL",
@@ -19215,6 +19256,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_cid": "tOwzoZqqFR",
@@ -20195,6 +20239,9 @@
                 "max-width": "calc(100% ~\"+\" 2rem)",
                 "left": "-1rem"
               }
+            },
+            ".section": {
+              "padding-top": "70px"
             }
           },
           "_PHPplaceholders": [],
