@@ -1175,116 +1175,6 @@ a:hover {
 .cid-tJDiWDfgia section {
   scroll-margin-top: 70px;
 }
-.cid-zeSxd5uNbd P {
-  color: #1281fc;
-}
-.cid-zeSxd5uNbd DIV {
-  color: #ffffff;
-}
-.cid-zeSxd5uNbd H10 {
-  color: #034e75;
-}
-.cid-zeSxd5uNbd .hidden {
-  display: none;
-}
-.cid-zeSxd5uNbd .icon-bar {
-  z-index: 100002;
-  position: fixed;
-  top: 45%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  padding-right: 11px;
-}
-.cid-zeSxd5uNbd .icon-bar a {
-  display: block;
-  text-align: center;
-  padding: 7px;
-  transition: all 0.3s ease;
-  color: white;
-  font-size: 20px;
-  padding-left: 11px;
-}
-.cid-zeSxd5uNbd .icon-bar a:hover {
-  background-color: #000000;
-}
-.cid-zeSxd5uNbd .flag {
-  background: transparent;
-}
-.cid-zeSxd5uNbd .content {
-  margin-left: 75px;
-  font-size: 30px;
-}
-.cid-zeSxd5uNbd .nav-right {
-  float: left !important;
-  position: relative;
-}
-.cid-zeSxd5uNbd #google_translate_element {
-  display: none;
-}
-.cid-zeSxd5uNbd .goog-te-banner {
-  display: none;
-}
-.cid-zeSxd5uNbd .skiptranslate {
-  display: none;
-  bottom: 0px;
-  position: relative;
-}
-.cid-zeSxd5uNbd .goog-te-spinner-pos {
-  display: none !important;
-}
-.cid-zeSxd5uNbd body {
-  top: 0px !important;
-}
-.cid-zeSxd5uNbd body body {
-  top: 0 !important;
-}
-.cid-zeSxd5uNbd body .goog-te-banner-frame {
-  display: none !important;
-}
-.cid-zeSxd5uNbd .goog-te-banner-frame.skiptranslate {
-  display: none !important;
-}
-.cid-zeSxd5uNbd .goog-tooltip {
-  display: none !important;
-}
-.cid-zeSxd5uNbd .goog-tooltip:hover {
-  display: none !important;
-}
-.cid-zeSxd5uNbd .goog-text-highlight {
-  background-color: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  display: none !important;
-  Background-color: transparent;
-}
-.cid-zeSxd5uNbd #goog-gt-tt,
-.cid-zeSxd5uNbd .goog-te-balloon-frame {
-  display: none !important;
-}
-.cid-zeSxd5uNbd #goog-gt-tt {
-  visibility: hidden;
-  display: none !important;
-}
-.cid-zeSxd5uNbd .goog-logo-link {
-  display: none !important;
-}
-.cid-zeSxd5uNbd .goog-te-gadget {
-  height: 28px !important;
-  overflow: hidden;
-}
-.cid-zeSxd5uNbd div.imgtest {
-  margin-left: auto;
-  margin-right: auto;
-  width: 100px;
-  content: url(https://www.unsitepourtous.be/logoscript/logo-zen.png);
-}
-.cid-zeSxd5uNbd div.imgtest2 {
-  margin-left: auto;
-  margin-right: auto;
-  width: 250px;
-  content: url(https://www.unsitepourtous.be/logoscript/flags145.png);
-}
 .cid-tMVekw9hDe {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -2440,6 +2330,116 @@ a:hover {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-zeSxd5uNbd P {
+  color: #1281fc;
+}
+.cid-zeSxd5uNbd DIV {
+  color: #ffffff;
+}
+.cid-zeSxd5uNbd H10 {
+  color: #034e75;
+}
+.cid-zeSxd5uNbd .hidden {
+  display: none;
+}
+.cid-zeSxd5uNbd .icon-bar {
+  z-index: 100002;
+  position: fixed;
+  top: 45%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding-right: 13px;
+}
+.cid-zeSxd5uNbd .icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 5px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+  padding-left: 13px;
+}
+.cid-zeSxd5uNbd .icon-bar a:hover {
+  background-color: #000000;
+}
+.cid-zeSxd5uNbd .flag {
+  background: transparent;
+}
+.cid-zeSxd5uNbd .content {
+  margin-left: 75px;
+  font-size: 30px;
+}
+.cid-zeSxd5uNbd .nav-right {
+  float: left !important;
+  position: relative;
+}
+.cid-zeSxd5uNbd #google_translate_element {
+  display: none;
+}
+.cid-zeSxd5uNbd .goog-te-banner {
+  display: none;
+}
+.cid-zeSxd5uNbd .skiptranslate {
+  display: none;
+  bottom: 0px;
+  position: relative;
+}
+.cid-zeSxd5uNbd .goog-te-spinner-pos {
+  display: none !important;
+}
+.cid-zeSxd5uNbd body {
+  top: 0px !important;
+}
+.cid-zeSxd5uNbd body body {
+  top: 0 !important;
+}
+.cid-zeSxd5uNbd body .goog-te-banner-frame {
+  display: none !important;
+}
+.cid-zeSxd5uNbd .goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+.cid-zeSxd5uNbd .goog-tooltip {
+  display: none !important;
+}
+.cid-zeSxd5uNbd .goog-tooltip:hover {
+  display: none !important;
+}
+.cid-zeSxd5uNbd .goog-text-highlight {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: none !important;
+  Background-color: transparent;
+}
+.cid-zeSxd5uNbd #goog-gt-tt,
+.cid-zeSxd5uNbd .goog-te-balloon-frame {
+  display: none !important;
+}
+.cid-zeSxd5uNbd #goog-gt-tt {
+  visibility: hidden;
+  display: none !important;
+}
+.cid-zeSxd5uNbd .goog-logo-link {
+  display: none !important;
+}
+.cid-zeSxd5uNbd .goog-te-gadget {
+  height: 28px !important;
+  overflow: hidden;
+}
+.cid-zeSxd5uNbd div.imgtest {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  content: url(https://www.unsitepourtous.be/logoscript/logo-zen.png);
+}
+.cid-zeSxd5uNbd div.imgtest2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  content: url(https://www.unsitepourtous.be/logoscript/flags145.png);
 }
 .cid-tJDiWDfgia {
   z-index: 1000;
