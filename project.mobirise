@@ -42,7 +42,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "2023 ISTO-clone",
+    "name": "2023 ISTO (v2 Sep 2023)",
     "versionFirst": "5.7.8",
     "siteFonts": [
       {
@@ -83,7 +83,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/t-100x104.png",
-    "mbrsiteDomain": "rlc8eqjk1r",
+    "mbrsiteDomain": "jfqg0uc75h",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -103,7 +103,7 @@
       "opacityOverlay": "0",
       "bgOpacity": "100",
       "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "GOT IT",
+      "textButton": "Accept and continue",
       "rejectText": "REJECT"
     },
     "publishChangesOnly": true,
