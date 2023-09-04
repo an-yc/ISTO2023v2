@@ -2346,20 +2346,21 @@ a:hover {
 .cid-zeSxd5uNbd .icon-bar {
   z-index: 100002;
   position: fixed;
-  top: 45%;
+  right: 0;
+  top: 24%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  padding-right: 13px;
+  padding-right: 30px;
 }
 .cid-zeSxd5uNbd .icon-bar a {
   display: block;
   text-align: center;
-  padding: 5px;
+  padding: 7px;
   transition: all 0.3s ease;
   color: white;
   font-size: 20px;
-  padding-left: 13px;
+  padding-left: 30px;
 }
 .cid-zeSxd5uNbd .icon-bar a:hover {
   background-color: #000000;
