@@ -1727,7 +1727,7 @@ a:hover {
 .cid-tMIfnp0PTU {
   padding-top: 6rem;
   padding-bottom: 5rem;
-  background-color: #00342b;
+  background-color: #ffffff;
 }
 .cid-tMIfnp0PTU .card-wrapper {
   display: inline-flex;
@@ -1739,7 +1739,7 @@ a:hover {
   align-items: center;
 }
 .cid-tMIfnp0PTU .item-border {
-  border-top: 2px solid white;
+  border-top: 2px solid grey;
   margin-bottom: 2rem;
   justify-content: space-between;
 }
@@ -1787,7 +1787,7 @@ a:hover {
   }
 }
 .cid-tMIfnp0PTU .card-text {
-  color: #fafafa;
+  color: #012921;
 }
 .cid-tMIfnp0PTU .mbr-text,
 .cid-tMIfnp0PTU .mbr-section-btn {
@@ -1795,7 +1795,7 @@ a:hover {
 }
 .cid-tMIfnp0PTU .card-title,
 .cid-tMIfnp0PTU .mbr-iconfont2 {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tMIfnp0PTU .label-text {
   width: 100%;
@@ -1828,7 +1828,7 @@ a:hover {
   line-height: inherit;
 }
 .cid-tMIfnp0PTU .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tMIfnp0PTU .mbr-text {
   color: #ffffff;
